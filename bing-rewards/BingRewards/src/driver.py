@@ -9,7 +9,7 @@ from seleniumwire  import webdriver
 from selenium.webdriver.support.abstract_event_listener import AbstractEventListener
 from selenium.webdriver.support.event_firing_webdriver import EventFiringWebDriver
 from selenium.common.exceptions import SessionNotCreatedException, WebDriverException
-import re
+import request
 import random
 import string
 
