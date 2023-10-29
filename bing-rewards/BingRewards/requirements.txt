@@ -6,5 +6,6 @@ six>=1.11.0
 requests>=2.25.1
 google-api-python-client
 google-auth-httplib2
+request
 google-auth-oauthlib
 selenium-wire
